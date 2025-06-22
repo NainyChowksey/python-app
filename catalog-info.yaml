@@ -5,6 +5,7 @@ metadata:
   description: Flask python app
   annotations:
     github.com/project-slug: NainyChowksey/python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
