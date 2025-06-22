@@ -1,9 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: my-portal
-  description: An example of a Backstage application.
-  # Example for optional annotations
+  name: python-app
+  description: Flask python app
   annotations:
     github.com/project-slug: NainyChowksey/python-app
 spec:
