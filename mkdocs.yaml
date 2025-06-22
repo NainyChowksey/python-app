@@ -1,0 +1,11 @@
+site_name: 'Python-APP'
+site_description: 'Flask APIs'
+repo_url: https://github.com/NainyChowksey/python-app
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+      - What is Backstage?: 'overview/what-is-backstage.md'
